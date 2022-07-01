@@ -21,5 +21,6 @@ $ npm start
 Pueden leer más sobre la API en: [themoviedb.org](https://developers.themoviedb.org/3)
 
 ## Autor
-Mi nombre es Julián Viso
+Mi nombre es Julián Viso.
+
 Pueden encontrarme también en [Linked-In](https://www.linkedin.com/in/julian-viso/)
