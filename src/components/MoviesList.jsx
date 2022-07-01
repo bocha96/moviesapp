@@ -1,5 +1,4 @@
 import { Box, Container, ImageList, ImageListItem, Modal, Rating, Typography } from '@mui/material';
-import { display } from '@mui/system';
 import React, { useState } from 'react';
 
 const IMG_URL = 'https://image.tmdb.org/t/p/w500';
@@ -31,10 +30,9 @@ const MoviesList = (props) => {
         height: 500,
         border: '2px solid #eee',
         boxShadow: 24,
-        p: 4,
+        p: 0,
         color: '#eee',
         display: 'flex',
-        p: 0,
         overflow: 'auto'
     }
     return (
