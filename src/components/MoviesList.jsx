@@ -115,7 +115,6 @@ const MoviesList = (props) => {
             </Modal>}
         </Container>) : (
             <Container sx={{ textAlign: 'center', mt: 10 }}>
-
                 <Typography variant='h2'> Oops! We can't find any movie. </Typography>
             </Container>
         )

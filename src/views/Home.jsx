@@ -59,8 +59,7 @@ const Home = () => {
                 color: '#eee',
                 justifyContent: 'center',
                 alignItems: 'center',
-                display: 'flex',
-
+                display: 'flex'
             }} maxWidth='xl'>
                 <Container sx={{ textAlign: 'center' }}>
                     <Typography variant='h3'>Welcome to Movies.app</Typography>
